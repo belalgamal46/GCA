@@ -1,0 +1,33 @@
+{
+  "translation": {
+    "helloWorld": "Ahmed Mohsen!!",
+    "no_location": "Location permission denied. We are unable to scan cable accessory.",
+    "no_camera": "Camera permission denied. We are unable to scan code",
+    "something_wrong": "Something went wrong please contact app support",
+    "no_scans": "You haven’t scanned any cable accessories yet",
+    "home_header_hello": "Hello,",
+    "Earned_points": "Earned points",
+    "view_map": "View map",
+    "Address": "Address",
+    "cable_type": "Cable type",
+    "installation_date": "Installation date",
+    "kit_id": "Kit ID",
+    "installation_number": "installation No.",
+    "The phone is not a valid phone number": "The phone is not a valid phone number",
+    "Invalid OTP": "Invalid OTP",
+    "national_num": "national id number",
+    "national_num_error_field_input": "Please enter you national id number",
+    "national_id_error_field_length": "Please enter fourteen digits only",
+    "national_id_error_field_invalid": "Please enter numbers only",
+    "arabic": "عربي",
+    "localization_screen_title": "Choose app language",
+    "change_language_text": "Change language",
+    "products_screen_title": "Products",
+    "approvals_screen_title": "Approvals",
+    "certificates_screen_title": "Certificates",
+    "about_company_screen_title": "About company",
+    "settings_screen_website": "Website",
+    "cashout_screen_method_text": "Mobile Wallet(vodafone, Etisalat, Orange, We)",
+    "Points to cash": "Points to withdraw"
+  }
+}

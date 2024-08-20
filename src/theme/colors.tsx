@@ -1,0 +1,16 @@
+export const PRIMARY = "#e53132";
+export const PRIMARY_OPACITY = "rgba(229,49,50,0.5)";
+export const ACCENT = "#e53132";
+export const PRIMARY_5 = "rgba(229,49,50,0.05)";
+export const TEXT_COLOR_1 = "#0f0000";
+export const TEXT_COLOR_2 = "#7d7d7d";
+export const TEXT_COLOR_3 = "#ffffff";
+export const TEXT_COLOR_4 = "#e3e3e3";
+export const TEXT_COLOR_5 = "#f1f1f1";
+export const BACKGROUND_3 = "#f1f1f1";
+export const WHITE = "#ffffff";
+export const BLACK = "#0a0a0a";
+export const BACKGROUND_1 = "#fcfcfc";
+export const PRIMARY3 = "#dbdbdb";
+export const BOTTOM_SHEET_ICON_BG = "#f0f0f0";
+export const TRANSPARENT = "rgba(255,255,255,0)";
